@@ -71,6 +71,6 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 ---
 ## :iphone: Screenshots
-![Data Load](https://user-images.githubusercontent.com/58620359/166948556-2b1f4153-0a89-45fd-bc98-884d41df5364.png)
-![Data Add](https://user-images.githubusercontent.com/58620359/166948897-80e5a827-3e5a-4775-9aa9-45e2606234cf.png)
-![Analytics View](https://user-images.githubusercontent.com/58620359/166948934-af77f017-9baf-49ce-ac3c-85290c1bd7e1.png)
+![feature](https://github.com/user-attachments/assets/39331093-c322-4232-ab9f-8c2b6e40ccde)
+![home](https://github.com/user-attachments/assets/5e2bddb9-8657-480c-b5e9-abd00107830b)
+![166948934-af77f017-9baf-49ce-ac3c-85290c1bd7e1](https://github.com/user-attachments/assets/0b41fc46-6778-42af-9f36-8937723f6292)
